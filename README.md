@@ -1,2 +1,2 @@
 # odin-recipes
-This is my recipe file.
+This is a simple recipe html webpage.
