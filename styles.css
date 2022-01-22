@@ -1,0 +1,12 @@
+h1{
+    color: green;
+}
+body {
+    background-color: "f4f4f4";
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    line-height: 1.6em;
+}
+ul {
+    justify-content: center;
+}
